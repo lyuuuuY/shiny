@@ -1,12 +1,18 @@
 Package: shinySpeech
 Type: Package
-Title: What the Package Does (Title Case)
+Title: A package that can show the top 10 nouns of  speeches  selected by a  Swedish party member
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
+Author: (
+    person(given="Yanjie",
+           family="Lyu",
+           role=c("aut","cre"),
+           email="yanly639@student.liu.se"),
+    person('Yi','Yang',role='aut')       
+    )
+Maintainer: Yanjie Lyu <yanly639@student.liu.se>
 Description: More about what it does (maybe more than one line)
     Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+License:GPL-3
 Encoding: UTF-8
 LazyData: true
 Imports: 
